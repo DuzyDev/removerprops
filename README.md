@@ -1,4 +1,4 @@
-# leal_removeprops
+# duzy_removeprops
 
 
 **Comando para remover props ( objetos ) " bugados " no jogador**
@@ -8,5 +8,5 @@
 Preview Video : https://streamable.com/t3soxd
 
 
-Leal
+Duzy
 
